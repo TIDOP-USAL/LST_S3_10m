@@ -1,2 +1,3 @@
-/data
-/out
+/outputs/*.tif
+/__pycache__
+/.ipynb_checkpoints
